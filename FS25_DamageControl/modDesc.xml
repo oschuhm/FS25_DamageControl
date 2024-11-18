@@ -16,7 +16,7 @@ Reduction depends on the "economy" difficulty level.
 Easy -> 20% wearout
 Normal -> 35% wearout
 Hard -> 50% wearout
-GitHub link: 
+GitHub link: https://github.com/oschuhm/FS25_DamageControl
 ]]></en>
     <de>
 <![CDATA[
@@ -27,7 +27,7 @@ Ebenso wird der Schwierigkeitsgrad "Wirtschaft" berücksichtigt.
 Einfach -> 20% Verschleiß
 Normal -> 35% Verschleiß
 Schwer -> 50% Verschleiß
-GitHub-Link: 
+GitHub-Link: https://github.com/oschuhm/FS25_DamageControl
 ]]></de>
   </description>
   <multiplayer supported="true"/>
