@@ -31,7 +31,7 @@ GitHub-Link: https://github.com/oschuhm/FS25_DamageControl
 ]]></de>
   </description>
   <multiplayer supported="true"/>
-  <iconFilename>modIcon.dds</iconFilename>
+  <iconFilename>icon_reduceWearout.dds</iconFilename>
   <extraSourceFiles>
     <sourceFile filename="register.lua"/>
   </extraSourceFiles>
