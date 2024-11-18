@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+  <author>LS-Farmers</author>
+  <version>1.0.0.0</version>
+  <title>
+    <en>Reduce Wearout</en>
+    <de>Verschleiß-Reduzierung</de>
+  </title>
+  <description>
+    <en>
+<![CDATA[
+Description: Reduces wearing of vehicles and tools.
+So you can do more work with less wearing.
+Age and operating time is still incorporated.
+Reduction depends on the "economy" difficulty level.
+Easy -> 20% wearout
+Normal -> 35% wearout
+Hard -> 50% wearout
+GitHub link: 
+]]></en>
+    <de>
+<![CDATA[
+Beschreibung: Verringert den Verschleiß an allen Fahrzeugen und Geräten.
+Ihr könnt somit länger damit arbeiten, bevor sie in die Werkstatt müssen.
+Alter und Betriebsstunden des Fahrzeuges werden weiterhin berücksichtigt.
+Ebenso wird der Schwierigkeitsgrad "Wirtschaft" berücksichtigt.
+Einfach -> 20% Verschleiß
+Normal -> 35% Verschleiß
+Schwer -> 50% Verschleiß
+GitHub-Link: 
+]]></de>
+  </description>
+  <multiplayer supported="true"/>
+  <iconFilename>modIcon.dds</iconFilename>
+  <extraSourceFiles>
+    <sourceFile filename="register.lua"/>
+  </extraSourceFiles>
+</modDesc>
