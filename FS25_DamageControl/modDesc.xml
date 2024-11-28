@@ -1,35 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="92">
+<modDesc descVersion="93">
   <author>LS-Farmers</author>
   <version>1.0.0.0</version>
   <title>
     <en>Reduce Wearout</en>
     <de>Verschleiß-Reduzierung</de>
   </title>
-  <description>
-    <en>
-<![CDATA[
-Description: Reduces wearing of vehicles and tools.
-So you can do more work with less wearing.
-Age and operating time is still incorporated.
+<description>
+<en>
+<![CDATA[Reduces wear on all vehicles and tools.
+
+This means you can work with them longer before they have to go into the workshop.
+The age and operating hours of the vehicle are still being considered.
+
 Reduction depends on the "economy" difficulty level.
 Easy -> 20% wearout
 Normal -> 35% wearout
 Hard -> 50% wearout
+
 GitHub link: https://github.com/oschuhm/FS25_DamageControl
 ]]></en>
-    <de>
-<![CDATA[
-Beschreibung: Verringert den Verschleiß an allen Fahrzeugen und Geräten.
-Ihr könnt somit länger damit arbeiten, bevor sie in die Werkstatt müssen.
-Alter und Betriebsstunden des Fahrzeuges werden weiterhin berücksichtigt.
+<de>
+<![CDATA[Verringert den Verschleiß an allen Fahrzeugen und Geräten.
+
+
+Das bedeutet, du kannst länger mit ihnen arbeiten, bevor sie in die Werkstatt müssen.
+Das Alter und die Betriebsstunden des Fahrzeugs werden weiterhin berücksichtigt.
+
 Ebenso wird der Schwierigkeitsgrad "Wirtschaft" berücksichtigt.
 Einfach -> 20% Verschleiß
 Normal -> 35% Verschleiß
 Schwer -> 50% Verschleiß
+
 GitHub-Link: https://github.com/oschuhm/FS25_DamageControl
 ]]></de>
-  </description>
+</description>
   <multiplayer supported="true"/>
   <iconFilename>icon_reduceWearout.dds</iconFilename>
   <extraSourceFiles>
